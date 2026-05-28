@@ -1,62 +1,127 @@
-# Hi there 👋
+<h1 align="center">Hi there, I'm Ishaani Jain 👋</h1>
+<h3 align="center">Software Engineer | Systems Optimization & AI Researcher</h3>
 
-Hey 😃 I'm Ishaani, a freshman at UC Irvine (with junior standing) studying Computer Science. I care deeply about building technology that makes a real difference and love working on hard problems at the systems and ML layer. Here's some more about me:
-
-💻 **Currently** I'm doing systems optimization research at **MIT CSAIL**, generative AI research at **CMU Human Sensing Lab**, and software engineering at **C2S Technologies**.
-🔭 **My focus** is bridging the gap between low-level performance optimization and high-level artificial intelligence to create robust, impactful solutions.
-🏆 **Hackathons:** Recently won at IrvineHacks with **Candid**, an app that tells you exactly how ballot measures affect your wallet, personalized to your ZIP and income using a RAG pipeline and LLaMA 3.3 70B!
-📫 **Reach me** via my [LinkedIn](https://linkedin.com/in/ishaanijain) or check out my [GitHub](https://github.com/ishaanijain)!
-🥴 (Bonus: if you can't already tell, I love emojis)
-
-### 🛠️ Languages & Tools
-- **Languages:** C++, Python, Java, JavaScript (React), HTML/CSS, CUDA
-- **ML & Data:** PyTorch, ONNX, LLaMA, RAG, ChromaDB
-- **Backend & Cloud:** FastAPI, AWS (Lambda, DynamoDB, S3, CDK), Firebase, Next.js
+<p align="center">
+  I'm a computer science student at UC Irvine with junior standing, who cares deeply about building technology that makes a real difference. I specialize in bridging the gap between low-level performance optimization and high-level artificial intelligence to create robust, impactful solutions.
+</p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaanijain/ishaanijain/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaanijain/ishaanijain/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ishaanijain/ishaanijain/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaanijain/readme-github---site/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaanijain/readme-github---site/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ishaanijain/readme-github---site/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
-## 🧪 Research
+### About Me
+- **Currently:** Doing systems optimization research at **MIT CSAIL**, generative AI research at **CMU Human Sensing Lab**, and software engineering at **C2S Technologies**.
+- **My focus:** Creating high-performance infrastructure, optimizing hardware/software execution pipelines (C++, CUDA), and developing complex machine learning systems.
+- **Recent highlight:** Won 1st place at **IrvineHacks** with **Candid**, an application analyzing ballot measures via RAG pipelines.
+- **Connect:** [LinkedIn](https://linkedin.com/in/ishaanijain) • [Email](mailto:ishaani.jain@example.com)
 
-* **CSAIL @ Massachusetts Institute of Technology** (Apr 2026 – Present)
-  Accelerating irregular and unstructured computational problems by designing efficient GPU systems and programming models in C++ and CUDA.
-* **Human Sensing Lab @ Carnegie Mellon University** (Apr 2026 – Present)
-  Authoring a photorealistic Unreal Engine 5 synthetic data pipeline generating large-scale annotated human motion sequences.
-* **Ramsey Lab @ Oregon State University** (Mar 2026 – Present)
-  Architecting high-performance infrastructure for the NIH NCATS Biomedical Data Translator.
-* **Calit2 @ UC Irvine** (Feb 2026 – Apr 2026)
-  Built physics-based AI to detect wildfires from over 6 miles away, providing critical early-warning data to ALERTCalifornia.
-* **SPAR @ UC Irvine** (Jan 2026 – Mar 2026)
-  AI Safety Undergrad Research Fellow conducting specialized research on AI evaluation methodologies and alignment.
+---
 
-## 🎓 Education
-**UC Irvine** | B.S. in Computer Science
-*Freshman with junior standing*
+### Languages & Tools
 
-## 💼 Experience
+<details>
+  <summary><b>Programming Languages</b></summary>
+  <br/>
+  C++, Python, Java, JavaScript (React), HTML/CSS, CUDA
+</details>
 
-* **Software Developer Engineer Intern** – C2S Technologies, Inc. (May 2026 – Present)
-* **Outreach Officer** – AWSCloud@UCI (Feb 2026 – Present)
-* **Software Development Intern** – GoFlyy (Feb 2026 – Apr 2026)
-* **Founding Software Engineering Intern** – Stealth Aviation Tech Startup (Sept 2025 – Mar 2026)
-* **Software Engineer Intern** – C2S Technologies, Inc. (Jul 2025 – Sep 2025)
+<details>
+  <summary><b>Machine Learning & Data Science</b></summary>
+  <br/>
+  PyTorch, ONNX, LLaMA, RAG, ChromaDB, TensorRT, Hugging Face
+</details>
 
-## 🚀 Selected Projects
+<details>
+  <summary><b>Backend & Cloud Infrastructure</b></summary>
+  <br/>
+  FastAPI, AWS (Lambda, DynamoDB, S3, CDK), Firebase, Next.js, Docker, Git
+</details>
 
-| Project | Tech Stack | What It Does |
-|---------|------------|--------------|
-| **Candid** | React, FastAPI, RAG, LLaMA | Tells you exactly how ballot measures affect your wallet, personalized to your ZIP, income, and housing situation. *(IrvineHacks Winner)* |
-| **High-Performance CUDA Kernels** | C++, CUDA, PyTorch | Matrix multiply from scratch across 4 optimization levels. Reaches 86% of cuBLAS at large sizes. |
-| **ResNet-18** | Python, PyTorch, ONNX | CNN Image Classifier on CIFAR-10 with data augmentation, LR scheduling, and early stopping. 90% test accuracy. |
-| **PyTorch DataLoader Optimization** | Python, PyTorch, CUDA | Toolkit for profiling and optimizing PyTorch data loading pipelines. Cuts overhead from ~40% to ~10%. |
-| **Calendar AI** | Python, Claude API, Google API | Turns plain English into Google Calendar events with smart collision detection. |
-| **Document Genie** | AWS Bedrock, Lambda, CDK | ML extraction pipeline for aviation compliance docs with 90%+ accuracy. |
-| **Startup Matchmaker** | Next.js, Firebase, AI Search | Matchmaking platform for startups and investors with AI semantic search. *(1st place at C2S Technologies)* |
-# readme-github---site
+---
+
+### Research Experience
+
+<details>
+  <summary><b>Massachusetts Institute of Technology (CSAIL)</b> — <i>Researcher</i></summary>
+  <ul>
+    <li>Accelerating irregular and unstructured computational problems by designing efficient GPU systems and programming models in C++ and CUDA.</li>
+    <li>Optimizing memory hierarchies and execution pipelines for high-performance computing applications.</li>
+    <li>Producing technical documentation of system architectures and experimental results within the research groups.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Carnegie Mellon University (Human Sensing Lab)</b> — <i>Research Assistant</i></summary>
+  <ul>
+    <li>Authoring a photorealistic Unreal Engine 5 synthetic data pipeline generating large-scale annotated human motion sequences.</li>
+    <li>Designing multi-scenario video generation protocols to quantify how synthetic visual diversity drives pose estimation accuracy in real-world robot deployments.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Oregon State University (Ramsey Lab)</b> — <i>Undergrad Researcher</i></summary>
+  <ul>
+    <li>Architecting high-performance infrastructure for the NIH NCATS Biomedical Data Translator, directly improving how scientists query and integrate global medical databases.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>UC Irvine (Calit2 & SPAR)</b> — <i>Undergrad AI/ML Researcher & AI Safety Fellow</i></summary>
+  <ul>
+    <li>Built physics-based AI to detect wildfires from over 6 miles away, providing critical early-warning data to ALERTCalifornia.</li>
+    <li>Selected for a competitive fellowship to conduct specialized research on AI evaluation methodologies and alignment.</li>
+  </ul>
+</details>
+
+---
+
+### Professional Experience
+
+<details>
+  <summary><b>Software Developer Engineer Intern</b> @ C2S Technologies, Inc.</summary>
+  <ul>
+    <li>Developing full-stack software solutions and maintaining enterprise-grade applications focusing on usability and performance.</li>
+    <li>Previously led a team of three to win 1st place and $10,000 in funding for an AI-driven investment matchmaking platform using RAG and UED.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Software Development Intern</b> @ GoFlyy</summary>
+  <ul>
+    <li>Architected an end-to-end software pipeline for automated garment condition assessment, transforming manual inspections into a scalable AI-powered workflow.</li>
+    <li>Achieved 90%+ defect classification accuracy and slashed inference latency 67% (2.1s to 680ms) via TensorRT INT8 quantization.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Founding Software Engineering Intern</b> @ Stealth Aviation Tech Startup</summary>
+  <ul>
+    <li>Built production full-stack infrastructure on AWS (Lambda, DynamoDB, S3, CDK) achieving 90%+ data extraction accuracy on aviation compliance documents.</li>
+    <li>Cut API latency 65% (8s to 2.8s), maintained 90%+ test coverage, and scaled platform to process 500+ documents/month.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Outreach Officer</b> @ AWSCloud@UCI</summary>
+  <ul>
+    <li>Connecting students with cloud computing resources, organizing workshops, and facilitating AWS certification study groups.</li>
+  </ul>
+</details>
+
+---
+
+### Selected Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **Candid** | React, FastAPI, RAG, LLaMA | Tells you exactly how ballot measures affect your wallet, personalized to your ZIP and income. 52,500+ legislative chunks in ChromaDB. *(IrvineHacks Winner)* |
+| **High-Performance CUDA Kernels** | C++, CUDA, PyTorch | Matrix multiply from scratch across 4 optimization levels (naive, shared-memory tiling, register blocking). Reaches 86% of cuBLAS. |
+| **PyTorch DataLoader Optimization** | Python, PyTorch, CUDA | Toolkit for profiling and optimizing PyTorch data loading pipelines. Demonstrates how to cut data loading overhead from ~40% to ~10%. |
+| **Calendar AI** | Python, Claude API, Google API | Turns plain English into Google Calendar events with smart collision detection and auto-sync. |
+| **Document Genie** | AWS Bedrock, Lambda, CDK | ML extraction pipeline for aviation compliance docs with 90%+ accuracy, Lambda cold-start cut 65%. |
