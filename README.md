@@ -1,9 +1,15 @@
-<h1 align="center">Hi there, I'm Ishaani Jain 👋</h1>
-<h3 align="center">Software Engineer | Systems Optimization & AI Researcher</h3>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  I'm a computer science student at UC Irvine with junior standing, who cares deeply about building technology that makes a real difference. I specialize in bridging the gap between low-level performance optimization (CUDA, C++) and high-level artificial intelligence (LLMs, PyTorch) to create robust, impactful solutions.
+  <b>Hey 😃 I'm Ishaani, a Computer Science student at UC Irvine who cares deeply about building technology that makes a real difference. Here's a bit more about me:</b>
 </p>
+
+💻 **Currently** I'm doing systems optimization research at **MIT CSAIL**, generative AI research at the **CMU Human Sensing Lab**, and SWE at **C2S Technologies**. 
+🔭 **My focus** is bridging the gap between low-level performance optimization (CUDA, C++) and high-level AI (LLMs, PyTorch) to create robust, impactful solutions!
+🏆 **Hackathons:** Recently won 1st place at **IrvineHacks** with **Candid**, an app that tells you exactly how ballot measures affect your wallet using RAG pipelines and ChromaDB.
+📚 **Interests:** I love working on hard problems at the systems and ML layer, especially parallel computing, computer vision, and AI safety!
+📫 **Reach me** via my [LinkedIn](https://linkedin.com/in/ishaanijain) or [Email](mailto:ishaani.jain@example.com)!
+🥴 (Bonus: if you can't already tell, I love emojis)
 
 <div align="center">
   <picture>
@@ -15,37 +21,20 @@
 
 ---
 
-### About Me
-- **Currently:** Doing systems optimization research at **MIT CSAIL**, generative AI research at **CMU Human Sensing Lab**, and software engineering at **C2S Technologies**.
-- **My focus:** Creating high-performance infrastructure, optimizing hardware/software execution pipelines, and developing complex machine learning systems.
-- **Recent highlight:** Won 1st place at **IrvineHacks** with **Candid**, an application analyzing ballot measures via RAG pipelines.
-- **Connect:** [LinkedIn](https://linkedin.com/in/ishaanijain) • [Email](mailto:ishaani.jain@example.com)
+### 🛠️ Languages & Tools
+
+**Programming & Core Concepts**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Machine Learning & Data**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/-ONNX-005C8A?style=flat) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF3E00?style=flat) ![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=flat) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-F9AB00?style=flat&logo=huggingface&logoColor=white)
+
+**Backend & Cloud**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### Languages & Skills
-
-<details>
-  <summary><b>Programming Languages & Core Concepts</b></summary>
-  <br/>
-  C++, Python, Java, JavaScript (React), HTML/CSS, CUDA, SQL, Parallel Computing, Linear Algebra
-</details>
-
-<details>
-  <summary><b>Machine Learning & Data Science</b></summary>
-  <br/>
-  PyTorch, ONNX, LLaMA, RAG, ChromaDB, TensorRT, Hugging Face, Computer Vision, AI Safety
-</details>
-
-<details>
-  <summary><b>Backend & Cloud Infrastructure</b></summary>
-  <br/>
-  FastAPI, AWS (Lambda, DynamoDB, S3, CDK), Firebase, Next.js, Vercel V0, Docker, Git, Software Infrastructure
-</details>
-
----
-
-### Research Experience
+### 🧪 Research Experience
 
 <details>
   <summary><b>Massachusetts Institute of Technology (CSAIL)</b> — <i>Researcher</i></summary>
@@ -82,7 +71,7 @@
 
 ---
 
-### Professional Experience
+### 💼 Professional Experience
 
 <details>
   <summary><b>Software Developer Engineer Intern</b> @ C2S Technologies, Inc.</summary>
@@ -117,7 +106,7 @@
 
 ---
 
-### Selected Projects
+### 🚀 Selected Projects
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
