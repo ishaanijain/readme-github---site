@@ -23,24 +23,24 @@
 
 ---
 
-### Languages & Tools
+### Languages & Skills
 
 <details>
-  <summary><b>Programming Languages</b></summary>
+  <summary><b>Programming Languages & Core Concepts</b></summary>
   <br/>
-  C++, Python, Java, JavaScript (React), HTML/CSS, CUDA
+  C++, Python, Java, JavaScript (React), HTML/CSS, CUDA, SQL, Parallel Computing, Linear Algebra
 </details>
 
 <details>
   <summary><b>Machine Learning & Data Science</b></summary>
   <br/>
-  PyTorch, ONNX, LLaMA, RAG, ChromaDB, TensorRT, Hugging Face, Computer Vision
+  PyTorch, ONNX, LLaMA, RAG, ChromaDB, TensorRT, Hugging Face, Computer Vision, AI Safety
 </details>
 
 <details>
   <summary><b>Backend & Cloud Infrastructure</b></summary>
   <br/>
-  FastAPI, AWS (Lambda, DynamoDB, S3, CDK), Firebase, Next.js, Docker, Git
+  FastAPI, AWS (Lambda, DynamoDB, S3, CDK), Firebase, Next.js, Vercel V0, Docker, Git, Software Infrastructure
 </details>
 
 ---
@@ -119,10 +119,45 @@
 
 ### Selected Projects
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **Candid** | React, FastAPI, RAG, LLaMA | Tells you exactly how ballot measures affect your wallet, personalized to your ZIP and income. 52,500+ legislative chunks in ChromaDB. *(IrvineHacks Winner)* |
-| **High-Performance CUDA Kernels** | C++, CUDA, PyTorch | Matrix multiply from scratch across 4 optimization levels (naive, shared-memory tiling, register blocking). Reaches 86% of cuBLAS. |
-| **PyTorch DataLoader Optimization** | Python, PyTorch, CUDA | Toolkit for profiling and optimizing PyTorch data loading pipelines. Demonstrates how to cut data loading overhead from ~40% to ~10%. |
-| **Calendar AI** | Python, Claude API, Google API | Turns plain English into Google Calendar events with smart collision detection and auto-sync. |
-| **Document Genie** | AWS Bedrock, Lambda, CDK | ML extraction pipeline for aviation compliance docs with 94%+ accuracy, Lambda cold-start cut 65%. |
+<details>
+  <summary><b>Candid — <i>IrvineHacks Winner</i></b></summary>
+  <ul>
+    <li><b>Tech Stack:</b> React, FastAPI, RAG, LLaMA, ChromaDB</li>
+    <li>Tells you how state and federal ballot measures affect your finances with a real, calculated number, personalized to your ZIP code, income, housing situation, and family size using real government data.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>High-Performance CUDA Kernels for Matrix Multiplication</b></summary>
+  <ul>
+    <li><b>Tech Stack:</b> C++, Python, CUDA, PyTorch</li>
+    <li>Built from scratch with four optimization levels: naive, shared-memory tiled, register-blocked, and warp-optimized.</li>
+    <li>Final kernel reaches 86% of NVIDIA's cuBLAS at large matrix sizes. Profiled with Nsight Compute and integrated as a PyTorch C++ extension.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Image Classification with CNNs (ResNet-18)</b></summary>
+  <ul>
+    <li><b>Tech Stack:</b> Python, PyTorch</li>
+    <li>Trained a ResNet-18 on CIFAR-10, achieving ~90% accuracy on the test set to learn more about CNNs and transfer learning.</li>
+    <li>Modified the ResNet-18 architecture for 32x32 images by swapping the first conv layer for a smaller 3x3 one and removing the initial maxpool to prevent aggressive early downsampling.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>PyTorch DataLoader Optimization</b></summary>
+  <ul>
+    <li><b>Tech Stack:</b> Python, PyTorch, CUDA</li>
+    <li>Created a hands-on toolkit for profiling and optimizing PyTorch data loading pipelines.</li>
+    <li>Demonstrated how to cut data loading overhead from ~40% to ~10% of total training time using smart batching, parallel augmentation, and CUDA prefetching.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Calendar AI & Document Genie</b></summary>
+  <ul>
+    <li><b>Calendar AI:</b> Turns plain English into Google Calendar events with smart collision detection and auto-sync.</li>
+    <li><b>Document Genie:</b> ML extraction pipeline for aviation compliance docs with 94%+ accuracy; slashed Lambda cold-start latency by 65%.</li>
+  </ul>
+</details>
