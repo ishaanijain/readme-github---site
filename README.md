@@ -12,7 +12,7 @@
 
 🌸 **Interests:** I love working on hard problems at the systems and ML layer, especially parallel computing, computer vision, and AI safety!
 
-💖 **Reach me** via my [LinkedIn](https://linkedin.com/in/ishaanijain) or [Email](mailto:ishaani.jain@example.com)!
+💖 **Reach me** via my [LinkedIn](https://linkedin.com/in/ishaanijain) or [Email](mailto:ishaani.jain1@gmail.com)!
 🌸 (Bonus: if you can't already tell, I love emojis)
 
 <div align="center">
