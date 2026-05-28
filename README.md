@@ -119,45 +119,10 @@
 
 ### Selected Projects
 
-<details>
-  <summary><b>Candid — <i>IrvineHacks Winner</i></b></summary>
-  <ul>
-    <li><b>Tech Stack:</b> React, FastAPI, RAG, LLaMA, ChromaDB</li>
-    <li>Tells you how state and federal ballot measures affect your finances with a real, calculated number, personalized to your ZIP code, income, housing situation, and family size using real government data.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>High-Performance CUDA Kernels for Matrix Multiplication</b></summary>
-  <ul>
-    <li><b>Tech Stack:</b> C++, Python, CUDA, PyTorch</li>
-    <li>Built from scratch with four optimization levels: naive, shared-memory tiled, register-blocked, and warp-optimized.</li>
-    <li>Final kernel reaches 86% of NVIDIA's cuBLAS at large matrix sizes. Profiled with Nsight Compute and integrated as a PyTorch C++ extension.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Image Classification with CNNs (ResNet-18)</b></summary>
-  <ul>
-    <li><b>Tech Stack:</b> Python, PyTorch</li>
-    <li>Trained a ResNet-18 on CIFAR-10, achieving ~90% accuracy on the test set to learn more about CNNs and transfer learning.</li>
-    <li>Modified the ResNet-18 architecture for 32x32 images by swapping the first conv layer for a smaller 3x3 one and removing the initial maxpool to prevent aggressive early downsampling.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>PyTorch DataLoader Optimization</b></summary>
-  <ul>
-    <li><b>Tech Stack:</b> Python, PyTorch, CUDA</li>
-    <li>Created a hands-on toolkit for profiling and optimizing PyTorch data loading pipelines.</li>
-    <li>Demonstrated how to cut data loading overhead from ~40% to ~10% of total training time using smart batching, parallel augmentation, and CUDA prefetching.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Calendar AI & Document Genie</b></summary>
-  <ul>
-    <li><b>Calendar AI:</b> Turns plain English into Google Calendar events with smart collision detection and auto-sync.</li>
-    <li><b>Document Genie:</b> ML extraction pipeline for aviation compliance docs with 94%+ accuracy; slashed Lambda cold-start latency by 65%.</li>
-  </ul>
-</details>
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **Candid**<br>*(IrvineHacks Winner)* | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) <br> ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi&logoColor=white) <br> ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF3E00?style=flat) | Tells you how state and federal ballot measures affect your finances with a real, calculated number, personalized to your ZIP code and income. Processed 52,500+ legislative chunks into ChromaDB vector storage. |
+| **CUDA Kernels for Matrix Mul** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) <br> ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | Built from scratch with four optimization levels (naive, shared-memory tiled, register-blocked, warp-optimized). Reaches 86% of cuBLAS. Profiled with Nsight Compute and integrated as a PyTorch C++ extension. |
+| **ResNet-18 Image Classification** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | Trained a ResNet-18 on CIFAR-10, achieving ~90% accuracy. Modified the architecture for 32x32 images by swapping the first conv layer for a smaller 3x3 one and removing the initial maxpool to prevent aggressive downsampling. |
+| **DataLoader Optimization** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) <br> ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white) | Created a hands-on toolkit for profiling and optimizing PyTorch data loading pipelines. Demonstrated how to cut data loading overhead from ~40% to ~10% of total training time using smart batching and CUDA prefetching. |
+| **Document Genie & Calendar AI** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) <br> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | **Calendar AI:** Turns plain English into Google Calendar events with smart collision detection.<br>**Document Genie:** ML extraction pipeline for aviation docs with 94%+ accuracy; slashed Lambda cold-start latency by 65%. |
