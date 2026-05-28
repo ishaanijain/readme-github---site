@@ -1,14 +1,18 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there </h1>
 
 <p align="center">
-  <b>Hey 😃 I'm Ishaani, a Computer Science student at UC Irvine who cares deeply about building technology that makes a real difference. Here's a bit more about me:</b>
+  <b>Hey!!! I'm Ishaani, a Computer Science student at UC Irvine who cares deeply about building technology that makes a real difference. Here's a bit more about me:</b>
 </p>
 
-🎀 **Currently** I'm doing systems optimization research at **MIT CSAIL**, generative AI research at the **CMU Human Sensing Lab**, and SWE at **C2S Technologies**. 
-✨ **My focus** is bridging the gap between low-level performance optimization (CUDA, C++) and high-level AI (LLMs, PyTorch) to create robust, impactful solutions!
+💖 **Currently** I'm doing systems optimization research at **MIT CSAIL**, generative AI research at the **CMU Human Sensing Lab**, and SWE at **C2S Technologies**. 
+
+🌸 **My focus** is bridging the gap between low-level performance optimization (CUDA, C++) and high-level AI (LLMs, PyTorch) to create robust, impactful solutions!
+
 💖 **Hackathons:** Recently won 1st place at **IrvineHacks** with **Candid**, an app that tells you exactly how ballot measures affect your wallet using RAG pipelines and ChromaDB.
-🌷 **Interests:** I love working on hard problems at the systems and ML layer, especially parallel computing, computer vision, and AI safety!
-💌 **Reach me** via my [LinkedIn](https://linkedin.com/in/ishaanijain) or [Email](mailto:ishaani.jain@example.com)!
+
+🌸 **Interests:** I love working on hard problems at the systems and ML layer, especially parallel computing, computer vision, and AI safety!
+
+💖 **Reach me** via my [LinkedIn](https://linkedin.com/in/ishaanijain) or [Email](mailto:ishaani.jain@example.com)!
 🌸 (Bonus: if you can't already tell, I love emojis)
 
 <div align="center">
